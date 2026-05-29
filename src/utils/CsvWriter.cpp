@@ -1,30 +1,59 @@
 ﻿#include "utils/CsvWriter.hpp"
+
+#include <filesystem>
 #include <fstream>
 #include <stdexcept>
+#include <string>
 
 namespace lk6::utils {
 
-void CsvWriter::WriteBenchmarkResults(
-    const std::string& outputPath,
-    const std::vector<lk6::core::BenchmarkResult>& results
-) {
-    std::ofstream out(outputPath);
-    if (!out) throw std::runtime_error("Failed to open CSV output: " + outputPath);
+namespace {
+std::string EscapeCsv(const std::string& value) {
+    bool requiresQuotes = false;
+    std::string escaped;
 
-    out << "algorithm,file_name,file_category,plain_bytes,cipher_bytes,keygen_ms,encrypt_ms,decrypt_ms,success,notes\n";
+    for (char ch : value) {
+        if (ch == '"' || ch == ',' || ch == '\n' || ch == '\r') {
+            requiresQuotes = true;
+        }
 
-    for (const auto& row : results) {
-        out
-            << row.algorithm << ','
-            << row.fileName << ','
-            << row.fileCategory << ','
-            << row.plainBytes << ','
-            << row.cipherBytes << ','
-            << row.keyGenMs << ','
-            << row.encryptMs << ','
-            << row.decryptMs << ','
-            << (row.success ? "true" : "false") << ','
-            << '"' << row.notes << '"' << '\n';
+        if (ch == '"') {
+            escaped += "\"\"";
+        } else {
+            escaped.push_back(ch);
+        }
+    }
+
+    if (!requiresQuotes) {
+        return escaped;
+    }
+
+    return "\"" + escaped + "\"";
+}
+} // namespace
+
+void CsvWriter::WriteRows(const std::filesystem::path& path,
+                         const std::vector<lk6::BenchmarkRow>& rows) {
+    std::filesystem::create_directories(path.parent_path());
+
+    std::ofstream output(path, std::ios::binary);
+    if (!output) {
+        throw std::runtime_error("Failed to open CSV output: " + path.string());
+    }
+
+    output << "algorithm,relative_file,size_category,input_bytes,output_bytes,keygen_ms,encrypt_ms,decrypt_ms,decrypted_match,notes\n";
+
+    for (const auto& row : rows) {
+        output << EscapeCsv(row.algorithm) << ","
+               << EscapeCsv(row.relativeFile) << ","
+               << EscapeCsv(row.sizeCategory) << ","
+               << row.inputBytes << ","
+               << row.outputBytes << ","
+               << row.keygenMs << ","
+               << row.encryptMs << ","
+               << row.decryptMs << ","
+               << (row.decryptedMatch ? "true" : "false") << ","
+               << EscapeCsv(row.notes) << "\n";
     }
 }
 

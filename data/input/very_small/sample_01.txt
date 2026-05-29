@@ -1,0 +1,2 @@
+﻿LK6 sample file.
+Replace this folder with your real dataset.

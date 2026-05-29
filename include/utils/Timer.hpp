@@ -1,15 +1,26 @@
 ﻿#pragma once
+
 #include <chrono>
 
 namespace lk6::utils {
 
 class Timer {
 public:
-    void Start();
-    double StopMilliseconds();
+    using Clock = std::chrono::steady_clock;
+
+    Timer() : start_(Clock::now()) {}
+
+    void Reset() {
+        start_ = Clock::now();
+    }
+
+    double ElapsedMs() const {
+        const auto end = Clock::now();
+        return std::chrono::duration<double, std::milli>(end - start_).count();
+    }
 
 private:
-    std::chrono::high_resolution_clock::time_point start_;
+    Clock::time_point start_;
 };
 
 } // namespace lk6::utils

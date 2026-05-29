@@ -1,13 +1,19 @@
 ﻿#pragma once
-#include <vector>
-#include "core/AppConfig.hpp"
-#include "core/CryptoTypes.hpp"
 
-namespace lk6::benchmarks {
+#include "core/Types.hpp"
+
+namespace lk6 {
 
 class BenchmarkRunner {
 public:
-    std::vector<lk6::core::BenchmarkResult> Run(const lk6::core::AppConfig& config);
+    explicit BenchmarkRunner(BenchmarkOptions options);
+
+    int RunAll();
+
+private:
+    std::string GetSizeCategory(std::uintmax_t bytes) const;
+
+    BenchmarkOptions options_;
 };
 
-} // namespace lk6::benchmarks
+} // namespace lk6

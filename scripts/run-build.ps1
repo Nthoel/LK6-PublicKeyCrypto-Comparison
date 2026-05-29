@@ -1,8 +1,22 @@
 ﻿param(
-    [string]$BuildDir = "build"
+    [string]$BuildDir = "build",
+    [string]$Config = "Release",
+    [string]$Generator = "",
+    [string]$CryptoPPRoot = $env:CRYPTOPP_ROOT
 )
 
 $ErrorActionPreference = "Stop"
 
-cmake -S . -B $BuildDir
-cmake --build $BuildDir
+$cmakeArgs = @("-S", ".", "-B", $BuildDir)
+
+if ($Generator -ne "") {
+    $cmakeArgs += @("-G", $Generator)
+}
+
+if ($CryptoPPRoot) {
+    $cmakeArgs += "-DCRYPTOPP_ROOT=$CryptoPPRoot"
+}
+
+cmake @cmakeArgs
+cmake --build $BuildDir --config $Config
+Write-Host "Build completed."

@@ -1,0 +1,11 @@
+﻿Dataset categories for LK6:
+- very_small  : < 10 KB
+- small       : 10 KB - 100 KB
+- medium      : 100 KB - 1 MB
+- large       : 1 MB - 5 MB
+- very_large  : > 5 MB
+
+Target file extensions:
+- .txt
+- .csv
+- .json

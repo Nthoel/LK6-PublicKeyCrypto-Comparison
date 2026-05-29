@@ -1,0 +1,8 @@
+﻿{
+  "name": "lk6-public-key-crypto-comparison",
+  "version-string": "0.2.0",
+  "description": "LK 6 modular benchmark project for RSA, ECIES, ElGamal, and Hybrid RSA-AES",
+  "dependencies": [
+    "cryptopp"
+  ]
+}

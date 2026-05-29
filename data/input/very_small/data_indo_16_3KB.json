@@ -1,0 +1,119 @@
+[
+  {
+    "id_pengguna": "26b999b8-ca95-4e9d-9329-8ab39ef4cfdc",
+    "profil": {
+      "nama": "Nalar Jailani",
+      "provinsi": "DI Yogyakarta",
+      "nomor_telepon": "+62 (095) 248-0921"
+    },
+    "profesi": "Pathologist"
+  },
+  {
+    "id_pengguna": "3be552f5-a3bc-4c7c-b2c2-a6aaa21b231b",
+    "profil": {
+      "nama": "Mutia Mahendra",
+      "provinsi": "Jambi",
+      "nomor_telepon": "+62 (087) 754-4168"
+    },
+    "profesi": "Teacher, English as a foreign language"
+  },
+  {
+    "id_pengguna": "8edb12d1-3ce3-410f-8102-f1bc3c4c8c46",
+    "profil": {
+      "nama": "Puti Elisa Sihotang",
+      "provinsi": "Kalimantan Timur",
+      "nomor_telepon": "+62-02-434-7246"
+    },
+    "profesi": "Marketing executive"
+  },
+  {
+    "id_pengguna": "34855279-4d8c-44c6-a38b-e7679b855a8c",
+    "profil": {
+      "nama": "Hj. Chelsea Nurdiyanti, S.Kom",
+      "provinsi": "Sumatera Utara",
+      "nomor_telepon": "+62-08-012-8016"
+    },
+    "profesi": "Data scientist"
+  },
+  {
+    "id_pengguna": "f3434fff-8218-47cc-a804-ff53f6df5a4d",
+    "profil": {
+      "nama": "Jefri Pratiwi, S.E.",
+      "provinsi": "Kepulauan Riau",
+      "nomor_telepon": "+62 (970) 923 7901"
+    },
+    "profesi": "Community development worker"
+  },
+  {
+    "id_pengguna": "fcf81301-a71f-4159-92f2-30c341a1ac1f",
+    "profil": {
+      "nama": "Cut Paris Astuti",
+      "provinsi": "Sulawesi Barat",
+      "nomor_telepon": "+62-04-052-5782"
+    },
+    "profesi": "Geophysicist/field seismologist"
+  },
+  {
+    "id_pengguna": "08f5034a-7b42-4df7-9816-6f83911e4b37",
+    "profil": {
+      "nama": "Winda Sitorus",
+      "provinsi": "Kalimantan Barat",
+      "nomor_telepon": "+62 (10) 319-4533"
+    },
+    "profesi": "Surveyor, building control"
+  },
+  {
+    "id_pengguna": "e906e6cb-87b9-40eb-9ae7-5820ad9e8004",
+    "profil": {
+      "nama": "Kala Situmorang",
+      "provinsi": "Kalimantan Timur",
+      "nomor_telepon": "+62-54-995-8880"
+    },
+    "profesi": "Public relations officer"
+  },
+  {
+    "id_pengguna": "954a8394-7786-4b60-8758-21055593e747",
+    "profil": {
+      "nama": "Cawisono Latupono",
+      "provinsi": "Jawa Barat",
+      "nomor_telepon": "+62-677-083-7213"
+    },
+    "profesi": "Engineer, manufacturing"
+  },
+  {
+    "id_pengguna": "a300e91d-88a0-46a6-903f-460303af6bd6",
+    "profil": {
+      "nama": "Rahman Latupono",
+      "provinsi": "DKI Jakarta",
+      "nomor_telepon": "+62 (78) 968-1906"
+    },
+    "profesi": "Catering manager"
+  },
+  {
+    "id_pengguna": "09494b53-587f-4d38-b3f3-bdc8c43968f9",
+    "profil": {
+      "nama": "Dr. Dewi Wahyuni, S.E.",
+      "provinsi": "Sumatera Barat",
+      "nomor_telepon": "+62 (124) 409 3369"
+    },
+    "profesi": "Radiographer, diagnostic"
+  },
+  {
+    "id_pengguna": "b0773882-f23f-4656-bb02-151b363a30ec",
+    "profil": {
+      "nama": "Najwa Mangunsong",
+      "provinsi": "Kalimantan Timur",
+      "nomor_telepon": "+62 (259) 791 0164"
+    },
+    "profesi": "Teacher, secondary school"
+  },
+  {
+    "id_pengguna": "efde19fb-a1b2-4a93-b884-32f6bac7ba09",
+    "profil": {
+      "nama": "Rini Thamrin, M.Kom.",
+      "provinsi": "Jawa Barat",
+      "nomor_telepon": "+62 (98) 471-1868"
+    },
+    "profesi": "Research scientist (life sciences)"
+  }
+]

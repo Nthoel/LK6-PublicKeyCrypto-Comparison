@@ -1,0 +1,155 @@
+[
+  {
+    "id_pengguna": "7ea0c265-4f64-4351-9ad8-7176828e3b4e",
+    "profil": {
+      "nama": "Eka Wulandari",
+      "provinsi": "Sulawesi Utara",
+      "nomor_telepon": "+62 (0186) 300 6084"
+    },
+    "profesi": "Forest/woodland manager"
+  },
+  {
+    "id_pengguna": "c9ef6cd6-ff94-47db-9f41-3c25594f9990",
+    "profil": {
+      "nama": "Samiah Tarihoran",
+      "provinsi": "Kalimantan Timur",
+      "nomor_telepon": "+62-565-354-8215"
+    },
+    "profesi": "Data scientist"
+  },
+  {
+    "id_pengguna": "0752dac6-c63c-494a-8af3-b8898d736233",
+    "profil": {
+      "nama": "Safina Laksmiwati",
+      "provinsi": "Kalimantan Timur",
+      "nomor_telepon": "0871442553"
+    },
+    "profesi": "Physicist, medical"
+  },
+  {
+    "id_pengguna": "dc1f94ba-8221-4b70-9ffb-66896288e74d",
+    "profil": {
+      "nama": "Fitria Wahyuni",
+      "provinsi": "Gorontalo",
+      "nomor_telepon": "+62 (0766) 743-3527"
+    },
+    "profesi": "Site engineer"
+  },
+  {
+    "id_pengguna": "ca40fdea-8b50-486c-bc88-31d3a29a7ec4",
+    "profil": {
+      "nama": "Almira Pratama",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "nomor_telepon": "+62 (051) 150 4784"
+    },
+    "profesi": "Administrator, arts"
+  },
+  {
+    "id_pengguna": "9a81341d-5228-42a2-841c-62bf3f818b18",
+    "profil": {
+      "nama": "Aurora Pudjiastuti",
+      "provinsi": "Riau",
+      "nomor_telepon": "(092) 982-3938"
+    },
+    "profesi": "Glass blower/designer"
+  },
+  {
+    "id_pengguna": "01d3fbde-92f6-4e3e-9e78-ab9afe4ce6e0",
+    "profil": {
+      "nama": "Bakiadi Wacana",
+      "provinsi": "Kalimantan Utara",
+      "nomor_telepon": "(024) 044-2932"
+    },
+    "profesi": "Geologist, engineering"
+  },
+  {
+    "id_pengguna": "97aade92-d6d3-4627-8ae8-79db0c3ee44f",
+    "profil": {
+      "nama": "Galih Laksmiwati",
+      "provinsi": "Sulawesi Tengah",
+      "nomor_telepon": "(0919) 202-2259"
+    },
+    "profesi": "Holiday representative"
+  },
+  {
+    "id_pengguna": "65b94530-9046-42c4-b652-0a371e70975d",
+    "profil": {
+      "nama": "Waluyo Tamba",
+      "provinsi": "Sumatera Utara",
+      "nomor_telepon": "0811426606"
+    },
+    "profesi": "Occupational psychologist"
+  },
+  {
+    "id_pengguna": "4fe50969-673f-46d0-849c-5f39dc05fec6",
+    "profil": {
+      "nama": "Okto Narpati",
+      "provinsi": "Kalimantan Utara",
+      "nomor_telepon": "+62 (802) 880-4767"
+    },
+    "profesi": "Insurance claims handler"
+  },
+  {
+    "id_pengguna": "1dcd5a64-0f67-4241-894a-8f9b08094295",
+    "profil": {
+      "nama": "Hilda Hidayat",
+      "provinsi": "Nusa Tenggara Timur",
+      "nomor_telepon": "+62 (0872) 084 5725"
+    },
+    "profesi": "Insurance risk surveyor"
+  },
+  {
+    "id_pengguna": "a0c84f92-cedb-4c96-bdaa-adb29c5d7f96",
+    "profil": {
+      "nama": "Drs. Ade Situmorang",
+      "provinsi": "Nusa Tenggara Barat",
+      "nomor_telepon": "+62-096-506-0076"
+    },
+    "profesi": "Sub"
+  },
+  {
+    "id_pengguna": "238f72be-621d-4b1c-a8d8-13e4655796b2",
+    "profil": {
+      "nama": "Dadap Ramadan",
+      "provinsi": "Sumatera Barat",
+      "nomor_telepon": "082 833 1566"
+    },
+    "profesi": "Meteorologist"
+  },
+  {
+    "id_pengguna": "ead39283-5f77-44d2-9c9c-213a3297f570",
+    "profil": {
+      "nama": "Ciaobella Rajasa",
+      "provinsi": "Maluku Utara",
+      "nomor_telepon": "+62-099-015-3725"
+    },
+    "profesi": "Chemical engineer"
+  },
+  {
+    "id_pengguna": "8de9c089-bcde-401a-8c0e-be0ca363ddc2",
+    "profil": {
+      "nama": "Puji Mandasari",
+      "provinsi": "Lampung",
+      "nomor_telepon": "+62 (053) 385-1283"
+    },
+    "profesi": "Personnel officer"
+  },
+  {
+    "id_pengguna": "db2cfb84-9775-4b99-b816-ba230f7b5d50",
+    "profil": {
+      "nama": "Ganda Firgantoro",
+      "provinsi": "Kalimantan Selatan",
+      "nomor_telepon": "(038) 039-4224"
+    },
+    "profesi": "Research scientist (medical)"
+  },
+  {
+    "id_pengguna": "0f6a066a-30b5-47f8-b53c-a90ee8ed1f74",
+    "profil": {
+      "nama": "H. Nyana Suryono, S.T.",
+      "provinsi": "Kalimantan Timur",
+      "nomor_telepon": "+62 (48) 904-9939"
+    },
+    "profesi": "Dealer"
+  }
+]

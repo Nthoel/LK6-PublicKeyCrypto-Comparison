@@ -1,0 +1,47 @@
+[
+  {
+    "id_pengguna": "b42f8c73-bfd4-4940-86b6-ed25f62d2c27",
+    "profil": {
+      "nama": "drg. Nilam Laksmiwati",
+      "provinsi": "Kalimantan Timur",
+      "nomor_telepon": "+62 (0628) 311 4334"
+    },
+    "profesi": "Restaurant manager, fast food"
+  },
+  {
+    "id_pengguna": "d5018106-09a8-42be-be6f-911043807746",
+    "profil": {
+      "nama": "Dt. Darimin Yuniar",
+      "provinsi": "Lampung",
+      "nomor_telepon": "+62 (217) 505-3123"
+    },
+    "profesi": "Scientist, water quality"
+  },
+  {
+    "id_pengguna": "a754f465-673b-4227-bc62-c6406ec6e5be",
+    "profil": {
+      "nama": "Tgk. Putri Iswahyudi",
+      "provinsi": "Maluku",
+      "nomor_telepon": "+62-0519-298-6083"
+    },
+    "profesi": "Arboriculturist"
+  },
+  {
+    "id_pengguna": "c4ab161a-3088-45d1-8634-8d04132f6cfa",
+    "profil": {
+      "nama": "Gamanto Wastuti",
+      "provinsi": "Bali",
+      "nomor_telepon": "+62 (743) 753 8350"
+    },
+    "profesi": "Geologist, wellsite"
+  },
+  {
+    "id_pengguna": "e7bd125d-ac1a-4cc3-9522-f819b1cd4d56",
+    "profil": {
+      "nama": "Kasiyah Sudiati",
+      "provinsi": "Papua Barat",
+      "nomor_telepon": "+62 (610) 836-2950"
+    },
+    "profesi": "Television camera operator"
+  }
+]

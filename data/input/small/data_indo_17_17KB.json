@@ -1,0 +1,632 @@
+[
+  {
+    "id_pengguna": "c3c0a922-ac65-4df9-9c0e-d92147b50774",
+    "profil": {
+      "nama": "Edward Hastuti",
+      "provinsi": "DI Yogyakarta",
+      "nomor_telepon": "+62 (0391) 993-6080"
+    },
+    "profesi": "Interior and spatial designer"
+  },
+  {
+    "id_pengguna": "e1608b28-5b11-438c-9903-9aba94c60b19",
+    "profil": {
+      "nama": "Kajen Padmasari, S.Farm",
+      "provinsi": "Banten",
+      "nomor_telepon": "+62-08-624-2817"
+    },
+    "profesi": "Surveyor, land/geomatics"
+  },
+  {
+    "id_pengguna": "6fcd11bc-dfbf-4c4a-8c37-d1160b5e49ff",
+    "profil": {
+      "nama": "Devi Mansur",
+      "provinsi": "Sulawesi Barat",
+      "nomor_telepon": "+62 (059) 854-4649"
+    },
+    "profesi": "Acupuncturist"
+  },
+  {
+    "id_pengguna": "5cea5999-014c-4e70-aa24-ddaa490c16c4",
+    "profil": {
+      "nama": "Hasna Haryanti",
+      "provinsi": "Jawa Barat",
+      "nomor_telepon": "+62-057-097-6530"
+    },
+    "profesi": "Press sub"
+  },
+  {
+    "id_pengguna": "75875971-1099-42b2-a19a-cee10c3d6c51",
+    "profil": {
+      "nama": "Bajragin Saragih",
+      "provinsi": "Kalimantan Barat",
+      "nomor_telepon": "081 814 5194"
+    },
+    "profesi": "Educational psychologist"
+  },
+  {
+    "id_pengguna": "d09fc02f-a344-4f19-8633-17ee29aab633",
+    "profil": {
+      "nama": "Diana Wasita",
+      "provinsi": "Aceh",
+      "nomor_telepon": "+62-01-567-0965"
+    },
+    "profesi": "Doctor, general practice"
+  },
+  {
+    "id_pengguna": "56101099-ce33-4114-9406-a19a3ed14c4d",
+    "profil": {
+      "nama": "Bambang Hassanah, S.Sos",
+      "provinsi": "Jawa Tengah",
+      "nomor_telepon": "(034) 191 5056"
+    },
+    "profesi": "Engineer, electronics"
+  },
+  {
+    "id_pengguna": "036bedec-994d-48e0-8ee7-18a9bf0f795f",
+    "profil": {
+      "nama": "Teddy Kuswandari",
+      "provinsi": "DKI Jakarta",
+      "nomor_telepon": "(080) 450-4309"
+    },
+    "profesi": "Trade union research officer"
+  },
+  {
+    "id_pengguna": "3d0c097f-c0a5-4533-981a-38582b793a00",
+    "profil": {
+      "nama": "Niyaga Winarno",
+      "provinsi": "Bengkulu",
+      "nomor_telepon": "+62 (0559) 794 8064"
+    },
+    "profesi": "Trade union research officer"
+  },
+  {
+    "id_pengguna": "6b21f97d-4980-4951-ac96-fa7cc7b2bbb6",
+    "profil": {
+      "nama": "Timbul Thamrin",
+      "provinsi": "Aceh",
+      "nomor_telepon": "089 530 2664"
+    },
+    "profesi": "Accounting technician"
+  },
+  {
+    "id_pengguna": "22711817-538e-465e-b52d-ee720d34bbab",
+    "profil": {
+      "nama": "drg. Yessi Fujiati",
+      "provinsi": "Lampung",
+      "nomor_telepon": "088 652 1559"
+    },
+    "profesi": "Chief Strategy Officer"
+  },
+  {
+    "id_pengguna": "fdca294b-a690-47a0-a9ff-d2d8faaf0379",
+    "profil": {
+      "nama": "Wirda Haryanto",
+      "provinsi": "Kalimantan Utara",
+      "nomor_telepon": "0884904982"
+    },
+    "profesi": "Insurance account manager"
+  },
+  {
+    "id_pengguna": "f78ba34c-dd0e-46cf-bfd7-9a59733ca595",
+    "profil": {
+      "nama": "Diah Samosir",
+      "provinsi": "Sumatera Selatan",
+      "nomor_telepon": "+62-69-811-6193"
+    },
+    "profesi": "Programmer, multimedia"
+  },
+  {
+    "id_pengguna": "81ef9ba3-348b-4bef-8adb-7224c5921a3b",
+    "profil": {
+      "nama": "Raditya Wijayanti",
+      "provinsi": "DI Yogyakarta",
+      "nomor_telepon": "+62 (942) 658 2055"
+    },
+    "profesi": "Learning mentor"
+  },
+  {
+    "id_pengguna": "6c213489-8a60-4f5a-b712-66ab30bac94b",
+    "profil": {
+      "nama": "Uli Latupono",
+      "provinsi": "Kalimantan Selatan",
+      "nomor_telepon": "+62 (0394) 031-9135"
+    },
+    "profesi": "IT technical support officer"
+  },
+  {
+    "id_pengguna": "c584ee2f-a7e2-4451-83e3-5395a9e5a8df",
+    "profil": {
+      "nama": "Drs. Maman Simanjuntak",
+      "provinsi": "Sumatera Selatan",
+      "nomor_telepon": "+62-65-559-9901"
+    },
+    "profesi": "Chief Operating Officer"
+  },
+  {
+    "id_pengguna": "b207753b-739f-4b14-8ebb-4eea7a2cacdc",
+    "profil": {
+      "nama": "Calista Firmansyah",
+      "provinsi": "Kalimantan Barat",
+      "nomor_telepon": "+62 (0581) 912 3343"
+    },
+    "profesi": "Herbalist"
+  },
+  {
+    "id_pengguna": "30090fdb-f9f1-427d-9e49-183be1c84c1f",
+    "profil": {
+      "nama": "Koko Sinaga",
+      "provinsi": "Lampung",
+      "nomor_telepon": "(0276) 014-6835"
+    },
+    "profesi": "Ophthalmologist"
+  },
+  {
+    "id_pengguna": "790a4a4f-f460-4034-a7aa-441a6d7b95ea",
+    "profil": {
+      "nama": "Yono Setiawan",
+      "provinsi": "Papua",
+      "nomor_telepon": "+62 (077) 375-2336"
+    },
+    "profesi": "Sales promotion account executive"
+  },
+  {
+    "id_pengguna": "b71c57ae-eae9-4188-8f7f-df58b81ced19",
+    "profil": {
+      "nama": "Dt. Joko Usamah",
+      "provinsi": "Kalimantan Barat",
+      "nomor_telepon": "(0612) 182-8847"
+    },
+    "profesi": "Production assistant, television"
+  },
+  {
+    "id_pengguna": "547549e5-b750-489e-aca9-595c6f4ae6f5",
+    "profil": {
+      "nama": "Balapati Saptono",
+      "provinsi": "DKI Jakarta",
+      "nomor_telepon": "+62 (077) 187-7235"
+    },
+    "profesi": "Teacher, adult education"
+  },
+  {
+    "id_pengguna": "070f577a-b79b-4829-98f7-ca66167a47fc",
+    "profil": {
+      "nama": "Sadina Iswahyudi, S.IP",
+      "provinsi": "Lampung",
+      "nomor_telepon": "(045) 692 1260"
+    },
+    "profesi": "Scientist, clinical (histocompatibility and immunogenetics)"
+  },
+  {
+    "id_pengguna": "55d9fb24-62cd-42d2-baf1-e054f555db81",
+    "profil": {
+      "nama": "Hj. Yulia Anggraini, S.E.I",
+      "provinsi": "Banten",
+      "nomor_telepon": "+62 (0830) 170 9835"
+    },
+    "profesi": "General practice doctor"
+  },
+  {
+    "id_pengguna": "07bd610e-d48e-413a-a20e-a6d4124e82df",
+    "profil": {
+      "nama": "Edward Dabukke",
+      "provinsi": "Gorontalo",
+      "nomor_telepon": "+62 (50) 066-8390"
+    },
+    "profesi": "Garment/textile technologist"
+  },
+  {
+    "id_pengguna": "07e25fb8-8155-47ac-b3ee-7b3369d259a0",
+    "profil": {
+      "nama": "Julia Saefullah",
+      "provinsi": "Sulawesi Tenggara",
+      "nomor_telepon": "(0518) 222 5767"
+    },
+    "profesi": "Bonds trader"
+  },
+  {
+    "id_pengguna": "2bfe6d5f-db74-4a8f-a71f-6805a2fe7bc7",
+    "profil": {
+      "nama": "Dr. Kamila Saptono, S.Sos",
+      "provinsi": "Bengkulu",
+      "nomor_telepon": "(095) 876-1334"
+    },
+    "profesi": "Financial manager"
+  },
+  {
+    "id_pengguna": "21e77fe1-59d3-4e46-9c6f-1e825c79f6ba",
+    "profil": {
+      "nama": "Drs. Pia Samosir, S.E.",
+      "provinsi": "Nusa Tenggara Timur",
+      "nomor_telepon": "(071) 519-3783"
+    },
+    "profesi": "Pharmacist, community"
+  },
+  {
+    "id_pengguna": "bee50cb4-99e2-47bb-afc6-a48ecd5c9b1c",
+    "profil": {
+      "nama": "drg. Lukman Ramadan",
+      "provinsi": "Papua Barat",
+      "nomor_telepon": "+62 (964) 885-9860"
+    },
+    "profesi": "Aeronautical engineer"
+  },
+  {
+    "id_pengguna": "92a94f06-77e7-4467-9283-a7d6f277bcad",
+    "profil": {
+      "nama": "Adinata Rajasa, S.I.Kom",
+      "provinsi": "Banten",
+      "nomor_telepon": "+62 (0328) 328-7652"
+    },
+    "profesi": "Magazine features editor"
+  },
+  {
+    "id_pengguna": "44184969-87c0-45c0-9646-2044cc9a24c1",
+    "profil": {
+      "nama": "Ir. Tomi Utami, S.Ked",
+      "provinsi": "Kepulauan Riau",
+      "nomor_telepon": "+62 (0716) 941 8298"
+    },
+    "profesi": "Engineer, agricultural"
+  },
+  {
+    "id_pengguna": "26ba078a-346c-4520-817a-962001d3cc09",
+    "profil": {
+      "nama": "Puti Salwa Dongoran",
+      "provinsi": "Bengkulu",
+      "nomor_telepon": "(051) 084 4262"
+    },
+    "profesi": "Academic librarian"
+  },
+  {
+    "id_pengguna": "b071af58-dec6-43a1-9944-7ae04e89b678",
+    "profil": {
+      "nama": "Mitra Pradipta",
+      "provinsi": "Bengkulu",
+      "nomor_telepon": "+62 (47) 883-5029"
+    },
+    "profesi": "Marine scientist"
+  },
+  {
+    "id_pengguna": "c4d535db-76fa-4407-b9a1-b2155c44752c",
+    "profil": {
+      "nama": "Margana Tarihoran",
+      "provinsi": "Aceh",
+      "nomor_telepon": "(0508) 430-6622"
+    },
+    "profesi": "Therapeutic radiographer"
+  },
+  {
+    "id_pengguna": "c4dd69d0-451a-4f4d-89b6-868e5bdc6e9e",
+    "profil": {
+      "nama": "Puti Shania Sudiati",
+      "provinsi": "Papua Barat",
+      "nomor_telepon": "+62-86-809-7866"
+    },
+    "profesi": "Herbalist"
+  },
+  {
+    "id_pengguna": "6b50c70a-468e-4e61-a26d-68f01890bb1a",
+    "profil": {
+      "nama": "R.A. Aurora Hartati",
+      "provinsi": "DKI Jakarta",
+      "nomor_telepon": "+62 (027) 247 3768"
+    },
+    "profesi": "Publishing rights manager"
+  },
+  {
+    "id_pengguna": "387b462a-7b6f-41d1-8192-3a26853704ad",
+    "profil": {
+      "nama": "Karsana Haryanto",
+      "provinsi": "Sulawesi Tengah",
+      "nomor_telepon": "+62-003-613-9339"
+    },
+    "profesi": "Editorial assistant"
+  },
+  {
+    "id_pengguna": "cdee310b-dfa8-44c7-8d98-4f73c8c29727",
+    "profil": {
+      "nama": "Hani Yulianti",
+      "provinsi": "Kalimantan Tengah",
+      "nomor_telepon": "+62-0390-220-2488"
+    },
+    "profesi": "Counselling psychologist"
+  },
+  {
+    "id_pengguna": "ed086b1d-f7eb-4b8a-8639-c1bcf568e3e1",
+    "profil": {
+      "nama": "Drs. Murti Latupono",
+      "provinsi": "Kalimantan Selatan",
+      "nomor_telepon": "+62 (0495) 919-4041"
+    },
+    "profesi": "Engineer, civil (contracting)"
+  },
+  {
+    "id_pengguna": "928e7355-049b-43cf-a278-dfea5830e39b",
+    "profil": {
+      "nama": "Ajeng Nashiruddin",
+      "provinsi": "Sulawesi Selatan",
+      "nomor_telepon": "+62 (095) 696 5102"
+    },
+    "profesi": "Engineer, building services"
+  },
+  {
+    "id_pengguna": "50bfda7c-3603-4248-a515-d70d69689ac4",
+    "profil": {
+      "nama": "R.A. Dewi Sirait, S.Sos",
+      "provinsi": "Aceh",
+      "nomor_telepon": "+62 (217) 561 1324"
+    },
+    "profesi": "Regulatory affairs officer"
+  },
+  {
+    "id_pengguna": "d5e404a5-ca17-4a23-9a32-bf52fde0e7b8",
+    "profil": {
+      "nama": "Tantri Usamah",
+      "provinsi": "Bali",
+      "nomor_telepon": "+62-53-416-1055"
+    },
+    "profesi": "Technical brewer"
+  },
+  {
+    "id_pengguna": "c20e88f9-c280-4a6f-a279-21eda1db7063",
+    "profil": {
+      "nama": "Ulya Hasanah",
+      "provinsi": "Maluku",
+      "nomor_telepon": "+62 (031) 303-4382"
+    },
+    "profesi": "Medical sales representative"
+  },
+  {
+    "id_pengguna": "490d8ab4-b232-4b8b-b091-2da1eec9df9b",
+    "profil": {
+      "nama": "Tami Januar",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "nomor_telepon": "+62 (72) 299-7704"
+    },
+    "profesi": "Equality and diversity officer"
+  },
+  {
+    "id_pengguna": "07dc18db-84ce-4e13-a837-f7afe0641848",
+    "profil": {
+      "nama": "Karimah Dongoran",
+      "provinsi": "Bengkulu",
+      "nomor_telepon": "088 170 5635"
+    },
+    "profesi": "Freight forwarder"
+  },
+  {
+    "id_pengguna": "6a921d4a-eaa4-4eec-a758-4f68260b53a1",
+    "profil": {
+      "nama": "Almira Nashiruddin",
+      "provinsi": "Sulawesi Utara",
+      "nomor_telepon": "+62 (217) 706 2779"
+    },
+    "profesi": "Hydrologist"
+  },
+  {
+    "id_pengguna": "6bc9cca2-52b8-44fb-94e6-ad84d6f21e96",
+    "profil": {
+      "nama": "Fathonah Hastuti",
+      "provinsi": "Jawa Timur",
+      "nomor_telepon": "(0942) 674-5454"
+    },
+    "profesi": "Television camera operator"
+  },
+  {
+    "id_pengguna": "ae32d729-4fe9-47ca-b3c3-affa4898681d",
+    "profil": {
+      "nama": "Dt. Ibun Mansur",
+      "provinsi": "Bali",
+      "nomor_telepon": "+62 (0923) 180 3912"
+    },
+    "profesi": "Television/film/video producer"
+  },
+  {
+    "id_pengguna": "d9a75f35-8948-48bd-90c6-907ae1306b4b",
+    "profil": {
+      "nama": "Cut Lalita Sihombing",
+      "provinsi": "Jambi",
+      "nomor_telepon": "+62 (077) 428-3967"
+    },
+    "profesi": "Claims inspector/assessor"
+  },
+  {
+    "id_pengguna": "78c50c2d-509c-432a-984c-42820959c12e",
+    "profil": {
+      "nama": "Dt. Cengkir Lailasari, S.Gz",
+      "provinsi": "Kalimantan Selatan",
+      "nomor_telepon": "+62 (043) 980-3106"
+    },
+    "profesi": "Air broker"
+  },
+  {
+    "id_pengguna": "a66d8780-2b00-4ac8-859a-7abdb09fd6f2",
+    "profil": {
+      "nama": "Emin Nainggolan",
+      "provinsi": "Nusa Tenggara Barat",
+      "nomor_telepon": "+62-0982-030-2139"
+    },
+    "profesi": "Administrator, education"
+  },
+  {
+    "id_pengguna": "db2380ec-feba-4925-843b-c3f2d724db9b",
+    "profil": {
+      "nama": "Pranata Hidayanto",
+      "provinsi": "Aceh",
+      "nomor_telepon": "0878113304"
+    },
+    "profesi": "Hydrogeologist"
+  },
+  {
+    "id_pengguna": "70d799f6-f09b-43b7-8b9f-abf8e1ead876",
+    "profil": {
+      "nama": "Ina Suwarno",
+      "provinsi": "Aceh",
+      "nomor_telepon": "(072) 373 9924"
+    },
+    "profesi": "Designer, exhibition/display"
+  },
+  {
+    "id_pengguna": "9ffc7a36-9117-4c0b-a392-fc58f4e0595d",
+    "profil": {
+      "nama": "Eja Laksita",
+      "provinsi": "Bali",
+      "nomor_telepon": "+62 (159) 821 6834"
+    },
+    "profesi": "Catering manager"
+  },
+  {
+    "id_pengguna": "2f6b6720-e2cc-4ba5-9960-6006520c02e9",
+    "profil": {
+      "nama": "Dr. Yulia Wulandari, M.Farm",
+      "provinsi": "Jawa Barat",
+      "nomor_telepon": "+62-076-268-3250"
+    },
+    "profesi": "Risk analyst"
+  },
+  {
+    "id_pengguna": "0571fb46-5c41-481f-b727-d012014ec64b",
+    "profil": {
+      "nama": "Zulaikha Salahudin",
+      "provinsi": "Jawa Barat",
+      "nomor_telepon": "+62-093-821-8081"
+    },
+    "profesi": "Arboriculturist"
+  },
+  {
+    "id_pengguna": "ec3fe864-6597-4189-8e51-ba8b2ee7e0b0",
+    "profil": {
+      "nama": "Ajiono Sudiati, S.T.",
+      "provinsi": "Nusa Tenggara Barat",
+      "nomor_telepon": "+62 (00) 836-7170"
+    },
+    "profesi": "Therapist, sports"
+  },
+  {
+    "id_pengguna": "dce8ba41-6b64-4cb7-91e4-530dacc71e51",
+    "profil": {
+      "nama": "Galih Hidayanto",
+      "provinsi": "DKI Jakarta",
+      "nomor_telepon": "0869769986"
+    },
+    "profesi": "Social worker"
+  },
+  {
+    "id_pengguna": "2d2815f3-e3ab-4a48-a77c-cdb3c8ddf2d3",
+    "profil": {
+      "nama": "Eka Situmorang",
+      "provinsi": "Kalimantan Tengah",
+      "nomor_telepon": "+62 (666) 598-9206"
+    },
+    "profesi": "Nurse, learning disability"
+  },
+  {
+    "id_pengguna": "32195ac1-523f-4c8d-b20c-7995e40dda78",
+    "profil": {
+      "nama": "Wisnu Zulkarnain",
+      "provinsi": "Sulawesi Barat",
+      "nomor_telepon": "+62-15-480-1415"
+    },
+    "profesi": "Surveyor, land/geomatics"
+  },
+  {
+    "id_pengguna": "f2131495-01fa-4c1b-9db2-590c13d83f5c",
+    "profil": {
+      "nama": "Dr. Iriana Pranowo, M.TI.",
+      "provinsi": "Maluku",
+      "nomor_telepon": "(0501) 534 5150"
+    },
+    "profesi": "Actor"
+  },
+  {
+    "id_pengguna": "1a8a9450-20d9-4822-8b2c-3b5eb7883358",
+    "profil": {
+      "nama": "Azalea Rajasa",
+      "provinsi": "Papua Barat",
+      "nomor_telepon": "(0320) 055 8572"
+    },
+    "profesi": "Counsellor"
+  },
+  {
+    "id_pengguna": "5db7f5af-86e6-4d29-9eff-cdadd96ca197",
+    "profil": {
+      "nama": "Drs. Ayu Halimah",
+      "provinsi": "Sumatera Selatan",
+      "nomor_telepon": "+62 (60) 222-1449"
+    },
+    "profesi": "Nurse, mental health"
+  },
+  {
+    "id_pengguna": "307ff5c3-d26f-4714-8bb6-b519e99100b8",
+    "profil": {
+      "nama": "dr. Kartika Mandala, S.I.Kom",
+      "provinsi": "Kalimantan Utara",
+      "nomor_telepon": "+62 (0788) 585 3247"
+    },
+    "profesi": "Hospital doctor"
+  },
+  {
+    "id_pengguna": "b017d1e7-9799-4ce0-8403-46fad68c3d5e",
+    "profil": {
+      "nama": "Samiah Yuniar, S.Psi",
+      "provinsi": "Jawa Tengah",
+      "nomor_telepon": "+62 (0216) 271-8820"
+    },
+    "profesi": "Programmer, multimedia"
+  },
+  {
+    "id_pengguna": "45d1a1e0-c1d3-4f70-954e-511da63e1c25",
+    "profil": {
+      "nama": "Hj. Kiandra Gunawan",
+      "provinsi": "Sulawesi Barat",
+      "nomor_telepon": "+62 (202) 962 0855"
+    },
+    "profesi": "Museum education officer"
+  },
+  {
+    "id_pengguna": "dbfcd24f-664b-4941-a990-a62f5433596b",
+    "profil": {
+      "nama": "Ihsan Wahyuni",
+      "provinsi": "Kalimantan Selatan",
+      "nomor_telepon": "+62 (091) 425 7116"
+    },
+    "profesi": "Building services engineer"
+  },
+  {
+    "id_pengguna": "ecd40700-e6ea-4ef5-8a8d-812e8e5ade0c",
+    "profil": {
+      "nama": "H. Balijan Pranowo, S.Pt",
+      "provinsi": "Kepulauan Riau",
+      "nomor_telepon": "(016) 710-4403"
+    },
+    "profesi": "Designer, jewellery"
+  },
+  {
+    "id_pengguna": "32a26e05-d1e9-44b3-8f5f-107238d08dca",
+    "profil": {
+      "nama": "Nilam Jailani, S.I.Kom",
+      "provinsi": "Banten",
+      "nomor_telepon": "(0933) 412-6897"
+    },
+    "profesi": "Advertising art director"
+  },
+  {
+    "id_pengguna": "5270db2d-9f60-4020-aa5a-7e1fac1d8c94",
+    "profil": {
+      "nama": "Puji Kurniawan",
+      "provinsi": "Sulawesi Barat",
+      "nomor_telepon": "(043) 546-2184"
+    },
+    "profesi": "Social researcher"
+  },
+  {
+    "id_pengguna": "cc47136a-a4e7-4e05-9799-4abeb638bee4",
+    "profil": {
+      "nama": "Shania Firgantoro",
+      "provinsi": "Sulawesi Barat",
+      "nomor_telepon": "087 388 9464"
+    },
+    "profesi": "General practice doctor"
+  }
+]

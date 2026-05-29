@@ -29,8 +29,6 @@ add_executable(lk6_crypto_compare
     src/benchmarks/BenchmarkRunner.cpp
     src/utils/FileUtils.cpp
     src/utils/CsvWriter.cpp
-    src/analysis/ByteMetrics.cpp
-    src/analysis/WordReportWriter.cpp
     src/algorithms/RSAAlgorithm.cpp
     src/algorithms/ECIESAlgorithm.cpp
     src/algorithms/ElGamalAlgorithm.cpp
